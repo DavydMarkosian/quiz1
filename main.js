@@ -6,6 +6,7 @@ let q5 = document.getElementById('q5')
 
 let arrayOfInputs = document.getElementsByTagName('input')
 
+
 let btn = document.getElementById('btn')
 
 
