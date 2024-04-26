@@ -24,3 +24,9 @@ body{
 #btn{
     margin-bottom: 10px;
 }
+@media(max-width: 480px){
+    .wrap {
+        width: 80%;
+        height: 70%;
+    }
+}
